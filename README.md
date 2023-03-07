@@ -52,3 +52,12 @@ return id_list: This line returns the id_list to the calling function.
 <img width="1148" alt="Screen Shot 2023-03-06 at 4 01 06 PM" src="https://user-images.githubusercontent.com/125079632/223229748-be1b5f26-8e3d-4a5f-830e-3af351852c1e.png">
 
 <img width="891" alt="Screen Shot 2023-03-06 at 4 01 54 PM" src="https://user-images.githubusercontent.com/125079632/223229911-64736b95-ac47-4332-8ef1-5972ee3d1361.png">
+
+Process Flow
+
+
+
+![Automation Process Flow1](https://user-images.githubusercontent.com/125079632/223496417-819cace4-cbd5-485e-b64d-a2fd4c1347a9.png)
+
+
+
